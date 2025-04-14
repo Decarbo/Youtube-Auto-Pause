@@ -95,7 +95,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 For any questions or feedback, please reach out to:
 
--  **Your Name**: [decarbo77@gmail.com](mailto:decarbo77@gmail.com)
+-  **Niraj Prajapati**: [decarbo77@gmail.com](mailto:decarbo77@gmail.com)
 -  **GitHub**: [decarbo](https://github.com/Decarbo)
 
 ---
