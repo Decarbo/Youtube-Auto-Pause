@@ -99,5 +99,3 @@ For any questions or feedback, please reach out to:
 -  **GitHub**: [decarbo](https://github.com/Decarbo)
 
 ---
-
-Feel free to customize this README template to fit your project's needs!
